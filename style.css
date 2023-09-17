@@ -1,0 +1,11 @@
+.hero-background {
+    background-image: url("./Images/Hi\,\ Im.jpg");
+    margin: 0;
+    padding: 0;
+    background-repeat: no-repeat;
+
+}
+
+.icon-color {
+    color: white;
+}
